@@ -1,5 +1,5 @@
 import pandas as pd
-erro proposital
+
 # Carrega a planilha
 excel_file = pd.ExcelFile("Relatorio_Fiscalizacao_Completo.xlsx")
 
